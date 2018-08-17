@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<svg width="640"  xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_7">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="svg_8" x1="0.463562" x2="1" y1="0.578125" y2="0">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#FF0000" height="99" id="svg_1" stroke="#000000" stroke-width="3" width="105" x="20" y="28"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(3.2792 0 0 2.69213 -57.3718 -64.671)" x="31.414857" xml:space="preserve" y="53.371017">E</text>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(3.2792 0 0 2.69213 69.2502 -65.1233)" x="6.713711" xml:space="preserve" y="68.043415">R</text>
+  <line fill="none" id="svg_5" stroke="url(#svg_7)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" x1="19.25" x2="181.75" y1="125.25" y2="118.25"/>
+  <line fill="none" id="svg_6" stroke="url(#svg_8)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3" transform="rotate(45 102.25 62.25)" x1="21" x2="183.5" y1="65.75" y2="58.75"/>
+ </g>
+</svg>
